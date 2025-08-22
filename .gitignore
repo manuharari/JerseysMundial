@@ -12,3 +12,4 @@ pnpm-debug.log*
 /prisma/dev.db-journal
 .vercel
 /.yarn
+.yarn/unplugged
